@@ -110,7 +110,8 @@ pip install moviepy
 ------
 
 八：效果图
- <img src="https://github.com/Learninglogs/yolov5/blob/master/%E5%9B%BE%E5%BA%93/yolov5%E5%A4%84%E7%90%86%E7%89%88%2000_00_00-00_00_30.gif" alt="效果图片" width="200" height="150" align="bottom" />
+
+ <img src="https://github.com/Learninglogs/yolov5/blob/master/%E5%9B%BE%E5%BA%93/yolov5%E5%A4%84%E7%90%86%E7%89%88%2000_00_00-00_00_30.gif" alt="效果图片" width="200" height="300" align="bottom" />
 
 九：自我说明
 
