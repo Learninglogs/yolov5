@@ -111,7 +111,7 @@ pip install moviepy
 
 八：效果图
 
- 	![yolov5处理版 00_00_00-00_00_30](https://github.com/Learninglogs/yolov5/图库/yolov5处理版 00_00_00-00_00_30.gif)
+ 	![yolov5处理版 00_00_00-00_00_30](https://github.com/Learninglogs/yolov5/blob/master/%E5%9B%BE%E5%BA%93/yolov5%E5%A4%84%E7%90%86%E7%89%88%2000_00_00-00_00_30.gif)
 
 九：自我说明
 
